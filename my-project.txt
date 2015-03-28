@@ -1,1 +1,1 @@
-this is my porject for learning git. Its fun.
+this is my project for learning git. It’s fun.
